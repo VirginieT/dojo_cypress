@@ -1,0 +1,23 @@
+{
+  "name": "dojo_cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VirginieT/dojo_cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VirginieT/dojo_cypress/issues"
+  },
+  "homepage": "https://github.com/VirginieT/dojo_cypress#readme",
+  "dependencies": {
+    "cypress": "^12.11.0"
+  }
+}
